@@ -9,7 +9,7 @@ namespace SonarQubeSample
     {
         public static string SaySomething(string name)
         {
-            Console.WriteLine("It's just a test");
+            Console.WriteLine("It's just a test 123");
         }
     }
 }
