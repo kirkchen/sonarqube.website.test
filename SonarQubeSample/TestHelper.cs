@@ -10,6 +10,8 @@ namespace SonarQubeSample
         public static string SaySomething(string name)
         {
             Console.WriteLine("It's just a test 123");
+
+            return string.Empty;
         }
     }
 }
